@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\green\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\green\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_TypeScriptTutorial1.-1449374625.00" t="ExcludeRecursive" />
-    <e p="D:\Work\typescript\tutorial1\TypeScriptTutorial1" t="IncludeFlat">
+    <e p="C:\Users\green\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_TypeScriptTutorial1.1304330575.00" t="ExcludeRecursive" />
+    <e p="D:\Work\Code\TestWebApp" t="IncludeFlat">
       <e p="packages" t="ExcludeRecursive" />
       <e p="TestWebApp" t="IncludeRecursive">
         <e p="App_Data" t="Include" />

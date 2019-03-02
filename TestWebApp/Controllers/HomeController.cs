@@ -1,4 +1,5 @@
-﻿using System.Web.Mvc;
+﻿using System;
+using System.Web.Mvc;
 
 namespace TestWebApp.Controllers
 {
@@ -12,6 +13,7 @@ namespace TestWebApp.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
+            Console.WriteLine("hello");
 
             return View();
         }
